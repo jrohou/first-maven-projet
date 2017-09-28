@@ -1,1 +1,1 @@
-# first-maven-projet
+# First Maven projet
